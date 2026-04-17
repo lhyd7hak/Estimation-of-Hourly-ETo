@@ -35,4 +35,4 @@ Select scaler_X.pkl and scaler_y.pkl from the Scalers folder.
 Select results folder.
 Click Run Inference & Generate Plot.The tool will automatically clean the data, apply the scaler, slice the correct inputs based on the model's filename, and output the predictions. It will save a Hexbin plot (.png) and a metrics report (.csv) in the same folder as your model.
 
-📜 CitationIf you use this code, the single-scaler methodology, or the pre-trained models in your research, please cite the accompanying paper:[Author Last Name, First Initial]. (2026). Estimation of Hourly ETo Using Neural Networks for the CIMIS. [Journal Name]. [DOI/Link]
+📜 CitationIf you use this code, the single-scaler methodology, or the pre-trained models in your research, please cite the accompanying paper:[Author Last Name, First Initial]. (2026). Estimation of Hourly ETo Using Neural Networks for the CIMIS Network (California) with Various Architectures and Activation Functions. [Computers and Electronics in Agriculture]. [DOI/Link]
